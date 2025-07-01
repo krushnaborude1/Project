@@ -43,6 +43,6 @@ project-root/
 ├── package.json # Project metadata and dependencies
 └── README.md # You're here!
 
-
+Author
 ---
 Krushna Borude
